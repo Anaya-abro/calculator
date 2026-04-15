@@ -32,5 +32,5 @@ It allows users to perform basic arithmetic operations by entering two numbers a
 ## ▶️ Usage
 
 1. Run the program:
-```bash
+
 python your_file_name.py
